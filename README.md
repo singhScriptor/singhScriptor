@@ -1,16 +1,15 @@
 # 🌌 Explore My Code Cosmos !
 
-
-
-🌱 Evolving with Every Line of Code 💻 
-
-<div style="float: right; text-align: center; margin-top: 20px; margin-bottom: 20px;">
+<div style="float: right; text-align: center; margin-bottom: 30px;">
     <a href="https://www.codewars.com/users/singhScriptor">
         <img src="https://www.codewars.com/users/singhScriptor/badges/large" align="right">
     </a>
 </div>
 
 <br>
+
+🌱 Evolving with Every Line of Code 💻 
+
 
 ⚡ Seeking Synergy in Tech Adventures
 
