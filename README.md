@@ -18,6 +18,9 @@
     <a href="https://singhscriptor.github.io/myPortFolio/" target="_blank">
         <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=globe&logoColor=white" alt="Portfolio">
     </a>
+    <a href="https://leetcode.com/singhScriptor" target="_blank"> 
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"> 
+    </a>
 
 
     
