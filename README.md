@@ -1,5 +1,12 @@
-[![Codewars](https://www.codewars.com/users/singhScriptor/badges/large)](https://www.codewars.com/users/singhScriptor)
+
 # 🌌 Explore My Code Cosmos !
+
+<div align="right">
+    <a href="https://www.codewars.com/users/singhScriptor">
+        <img src="https://www.codewars.com/users/singhScriptor/badges/large" align="right">
+    </a>
+</div>
+
 
 🌱 Evolving with Every Line of Code 💻 
 
