@@ -24,20 +24,12 @@
     <a href="https://instagram.com/drjsingh_" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-
-
-
-
-
     
-
 </div>
-
-
 
 <hr>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAwYXcweDFzeXM1bzZydndsbGIyZ2oxZnpwYXVoZ3lkdDM2YmRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="350px" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAwYXcweDFzeXM1bzZydndsbGIyZ2oxZnpwYXVoZ3lkdDM2YmRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="450px" align="right">
 
 
 🌱 Evolving with Every Line of Code 💻 
