@@ -9,7 +9,7 @@
 
 ⚡ Seeking Synergy in Tech Adventures
 
-### 📫 Connect with me :
+### 📫 Connect with me 
 
 <a href="https://github.com/singhScriptor" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
