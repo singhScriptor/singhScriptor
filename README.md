@@ -1,19 +1,17 @@
+[![Codewars](https://www.codewars.com/users/singhScriptor/badges/large)](https://www.codewars.com/users/singhScriptor)
 # 🌌 Explore My Code Cosmos !
 
 
-<div align="right">
-    <a href="https://www.codewars.com/users/singhScriptor">
-        <img src="https://www.codewars.com/users/singhScriptor/badges/large" align="right">
-    </a>
-</div>
-🌱 Evolving with Every Line of Code 💻 
 
-⚡ Seeking Synergy in Tech Adventures
+
 
 <hr>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAwYXcweDFzeXM1bzZydndsbGIyZ2oxZnpwYXVoZ3lkdDM2YmRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="400px" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAwYXcweDFzeXM1bzZydndsbGIyZ2oxZnpwYXVoZ3lkdDM2YmRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="450px" align="right">
 
+🌱 Evolving with Every Line of Code 💻 
+
+⚡ Seeking Synergy in Tech Adventures
 
 
 ### 📫 Connect with me 
