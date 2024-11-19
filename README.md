@@ -1,6 +1,30 @@
-![Codewars](https://www.codewars.com/users/singhScriptor/badges/large)
+<div align="center">
+    <img src="https://www.codewars.com/users/singhScriptor/badges/large" alt="Codewars Badge"><br>
+    <h1>🌌 Explore My Code Cosmos !</h1>
+</div>
+<div align="center">
+    <a href="https://github.com/singhScriptor" target="_blank">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://instagram.com/drjsingh_" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="mailto:dhirajkr1117@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://discord.gg/bKw582RV" target="_blank">
+        <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="https://singhscriptor.github.io/myPortFolio/" target="_blank">
+        <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=globe&logoColor=white" alt="Portfolio">
+    </a>
 
-# 🌌 Explore My Code Cosmos !
+
+    
+
+</div>
+
+
 
 <hr>
 
@@ -12,22 +36,6 @@
 
 ⚡ Seeking Synergy in Tech Adventures
 
-### 📫 Connect with me 
-
-<a href="https://github.com/singhScriptor" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://instagram.com/drjsingh_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="mailto:dhirajkr1117@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://discord.gg/bKw582RV" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
-</a>
-
-<br>
 
 ### 🛠 Tech Stack
 
