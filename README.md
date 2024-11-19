@@ -9,6 +9,20 @@
 
 ⚡ Seeking Synergy in Tech Adventures
 
+### 📫 Connect with me :
+
+<a href="https://github.com/singhScriptor" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://instagram.com/drjsingh_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="mailto:dhirajkr1117@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://discord.gg/bKw582RV" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 ### 🛠 Tech Stack
 
@@ -38,20 +52,6 @@
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Macos-F7F7F7?logo=macos&logoColor=black&style=flat">&nbsp;
 
-### 📫 Connect with me :
-
-<a href="https://github.com/singhScriptor" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://instagram.com/drjsingh_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="mailto:dhirajkr1117@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://discord.gg/bKw582RV" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
-</a>
 
 <hr>
 
