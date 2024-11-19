@@ -44,8 +44,7 @@
 <img src="https://img.shields.io/badge/-Axios-671DDF?logo=axios&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white&style=flat">&nbsp;
 
-**Version Control** <br>
-<img src="https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat">&nbsp;
+
 
 **Tools & Platforms** <br>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
@@ -56,6 +55,9 @@
 <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=linux&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Macos-F7F7F7?logo=macos&logoColor=black&style=flat">&nbsp;
+
+**Version Control** <br>
+<img src="https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat">&nbsp;
 
 
 <hr>
