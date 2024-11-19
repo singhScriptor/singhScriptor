@@ -54,8 +54,8 @@
 
 ## 🌟 GitHub Activity
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhScriptor&theme=github_dark"height="155em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhScriptor&theme=github_dark"  height="155em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=singhScriptor&theme=radical&hide_border=true"  height="155em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8"  height="155em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhScriptor&theme=github_dark" height="155em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhScriptor&theme=github_dark" height="155em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=singhScriptor&theme=radical&hide_border=true" height="155em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8" height="155em"/>
 </div>
