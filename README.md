@@ -1,8 +1,7 @@
-
 [![Codewars](https://www.codewars.com/users/singhScriptor/badges/large)](https://www.codewars.com/users/singhScriptor)
 # 🌌 Explore My Code Cosmos ! 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhjYWMzaDloNGNxem1saDQyb3JvcHZua2dtd2ExYTZjcXVyNGN1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="450px" align="right">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3psY25pd2ZxY2NwZm1lcm02aHNxNmd2dzNkNmt3eGFqdTM2aHRpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.webp" width="450px" align="right">
 
 🌱 Evolving with Every Line of Code 💻 
 
@@ -19,7 +18,9 @@
 <a href="mailto:dhirajkr1117@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-
+<a href="https://discord.gg/bKw582RV" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 ### 🛠 Tech Stack
 
