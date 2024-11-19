@@ -15,8 +15,8 @@
     <a href="https://github.com/singhScriptor" target="_blank">
         <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://twitter.com/drjsingh_" target="_blank"> 
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+    <a href="https://x.com/drjsingh_?t=sel7LRDKnNsHUojOlChd9g&s=09" target="_blank"> 
+        <img src="https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white" alt="X"> 
     </a>
     <a href="https://leetcode.com/singhScriptor" target="_blank"> 
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"> 
