@@ -40,7 +40,6 @@
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
     </a>
 </div>
-
 <hr>
 <div align="center">
 <img src="https://www.codewars.com/users/singhScriptor/badges/large" alt="Codewars Badge">
@@ -48,7 +47,6 @@
 <hr>
 
 ## 🛠 Tech Stack 
-
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAwYXcweDFzeXM1bzZydndsbGIyZ2oxZnpwYXVoZ3lkdDM2YmRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="300px" align="right">
 
 
