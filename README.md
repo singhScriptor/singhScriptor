@@ -124,6 +124,7 @@ I regularly share useful reads on GitHub Gists. Below are some of the helpful on
 
 ## ⚙️ GitHub Activity
 <div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8&hide_border=true"height="155em"/>   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8&hide_border=true"height="155em"/>   
 </div>
