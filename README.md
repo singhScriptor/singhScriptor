@@ -4,7 +4,7 @@
 <hr>
 
 ## 👨🏻‍💻 **About Me** 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="280px" align="right">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="280px" align="right"><br>
 🚀 A Developer !<br>
 
 🌱 Evolving with every line of code.  <br>
