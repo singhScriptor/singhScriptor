@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>🌌 Explore My Code Cosmos!</h1>
+    <h1 style="border-bottom : none">🌌 Explore My Code Cosmos!</h1>
 </div>
 <hr>
 
@@ -86,7 +86,31 @@
 
 **Version Control** <br>
 <img src="https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat">&nbsp;
+</details> <br>
+
+## 📚 Recent Projects 
+<details><summary><b>Creations</b></summary><br>
+
+  ✨ [myPortFolio](https://github.com/singhScriptor/myPortFolio) - [Live Demo](https://singhscriptor.github.io/myPortFolio/)<br>
+  ✨ [Order Management System](https://github.com/singhScriptor/OrderManagement) - [Live Demo](https://singhscriptor.github.io/OrderManagement/)<br>
+  ✨ [Coding Assessment L-2 Cart Application](https://github.com/singhScriptor/L2-Assesment) - [Live Demo](https://singhscriptor.github.io/L2-Assesment/)<br>
+  ✨ [Elusive Button](https://github.com/singhScriptor/elusiveButton) - [Live Demo](https://singhscriptor.github.io/elusiveButton/)<br>
+
+  <!--START_SECTION:activity-->
+1. Contributed to [myPortFolio](https://github.com/singhScriptor/myPortFolio) - Added new features and improved design<br>
+2. Worked on [Order Management System](https://github.com/singhScriptor/OrderManagement) - Developed CRUD and local storage features<br>
+3. Participated in [Coding Assessment L-2 Cart Application](https://github.com/singhScriptor/L2-Assesment) - Implemented cart features and local storage<br>
+4. Developed [Elusive Button](https://github.com/singhScriptor/elusiveButton) - Created interactive buttons with elusive behavior<br>
+  <!--END_SECTION:activity-->
+</details><br>
+
+## 📊 Data Structures and Algorithms 
+<details><summary><b>Coding Adventures</b></summary><br>
+
+- **[DSA Repository](https://github.com/singhScriptor/DSA)**
 </details>
+
+
 <hr>
 
 ## ⚙️ GitHub Activity
