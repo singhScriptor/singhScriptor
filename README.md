@@ -48,10 +48,11 @@
 
 <hr>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAwYXcweDFzeXM1bzZydndsbGIyZ2oxZnpwYXVoZ3lkdDM2YmRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="350px" align="right">
+
 
 ## 🛠 Tech Stack 
-<details><summary><strong>Tech Arsenal </strong></summary><br>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAwYXcweDFzeXM1bzZydndsbGIyZ2oxZnpwYXVoZ3lkdDM2YmRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="350px" align="right">
+<details><summary><strong>🔧 Skill Arsenal</strong></summary><br>
 
 **Languages** <br>
 <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
@@ -88,8 +89,8 @@
 <img src="https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat">&nbsp;
 </details> <br>
 
-## 📚 Recent Projects 
-<details><summary><b>Creations</b></summary><br>
+
+<details><summary><b>📚 Projects</b></summary><br>
 
   ✨ [myPortFolio](https://github.com/singhScriptor/myPortFolio) - [Live Demo](https://singhscriptor.github.io/myPortFolio/)<br>
   ✨ [Order Management System](https://github.com/singhScriptor/OrderManagement) - [Live Demo](https://singhscriptor.github.io/OrderManagement/)<br>
@@ -103,13 +104,11 @@
 4. Developed [Elusive Button](https://github.com/singhScriptor/elusiveButton) - Created interactive buttons with elusive behavior<br>
   <!--END_SECTION:activity-->
 </details><br>
+ 
+<details><summary><b>📊 Data Structures and Algorithms</b></summary><br>
 
-## 📊 Data Structures and Algorithms 
-<details><summary><b>Coding Adventures</b></summary><br>
-
-- **[DSA Repository](https://github.com/singhScriptor/DSA)**
+- **[JavaScript](https://github.com/singhScriptor/DSA)**
 </details>
-
 
 <hr>
 
@@ -117,6 +116,5 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8&hide_border=true" height="155em"/>
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8&hide_border=true" height="155em"/>
 </div>
