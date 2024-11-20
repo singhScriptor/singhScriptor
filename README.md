@@ -1,6 +1,5 @@
 <div align="center">
     <h1>🌌 Explore My Code Cosmos!</h1>
-    
 </div>
 <hr>
 
@@ -8,9 +7,9 @@
 
 🚀 A Developer!<br><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="300px" align="right">
 
-🌱 Evolving with Every Line of Code 💻 <br>
+🌱 Evolving with every line of code. 💻 <br>
 
-⚡ Seeking Synergy in Tech Adventures<br>
+⚡ Seeking synergy in tech adventures.<br>
 
 📫 Get in touch: [Email](mailto:dhirajkr1117@gmail.com), [Discord](https://discord.gg/bKw582RV), [Twitter](https://x.com/drjsingh_?t=sel7LRDKnNsHUojOlChd9g&s=09).<br>
 
@@ -20,7 +19,6 @@
 
 <div align="center">
     <img src="https://www.codewars.com/users/singhScriptor/badges/large" alt="Codewars Badge"><br>
-    
 </div>
 <hr>
 
@@ -53,7 +51,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAwYXcweDFzeXM1bzZydndsbGIyZ2oxZnpwYXVoZ3lkdDM2YmRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="350px" align="right">
 
 ## 🛠 Tech Stack 
-<details><summary></summary>
+<details><summary><strong>Tech Arsenal </strong></summary><br>
 
 **Languages** <br>
 <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
@@ -95,5 +93,6 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8&hide_border=true" height="155em"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8&hide_border=true" style="min-height: 155em;" height="155em"/>
+
 </div>
