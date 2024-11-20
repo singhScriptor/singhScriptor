@@ -17,6 +17,11 @@
 
 <hr>
 
+
+![Codewars Badge](https://www.codewars.com/users/singhScriptor/badges/large)
+
+<hr>
+
 <div align="center">
     <a href="https://singhscriptor.github.io/myPortFolio/" target="_blank">
         <img src="https://img.shields.io/badge/-myPortfolio-000000?style=flat&logo=globe&logoColor=white" alt="Portfolio">
@@ -39,10 +44,6 @@
     <a href="https://instagram.com/drjsingh_" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-</div>
-<hr>
-<div align="center">
-<img src="https://www.codewars.com/users/singhScriptor/badges/large" alt="Codewars Badge">
 </div>
 <hr>
 
