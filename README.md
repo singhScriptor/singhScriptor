@@ -56,7 +56,6 @@
 ## 🛠 Tech Stack 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2E4a2o2Z3l0MHBqc2M4Z3RydGo4ZXUxYnNtd2dlMXcwM3c1d3ZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" width="400px" align="right">
 
-
 <details><summary><strong>🔧 Skill Arsenal</strong></summary><br>
 
 **Languages** <br>
@@ -132,5 +131,7 @@ I regularly share useful reads on GitHub Gists. Below are some of the helpful on
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8&hide_border=true"height="155em"/>   
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8&hide_border=true"height="155em"/>!
+ 
 </div>
+
