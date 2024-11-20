@@ -48,7 +48,7 @@
 <hr>
 
 ## 🛠 Tech Stack 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NkcTR2aG4wNXd5Y3F1bmszNXJubjBxaTB4eGZuZWt6YzFmaDcyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1y0zSu5hYE1pJSdqmI/giphy.webp" width="400px" align="right">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2E4a2o2Z3l0MHBqc2M4Z3RydGo4ZXUxYnNtd2dlMXcwM3c1d3ZhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" width="400px" align="right">
 
 
 <details><summary><strong>🔧 Skill Arsenal</strong></summary><br>
