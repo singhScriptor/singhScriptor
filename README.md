@@ -2,12 +2,6 @@
     <h1 style="border-bottom : none">🌌 Explore My Code Cosmos!</h1>
 </div>
 
-<div align="center">
-    
-![Codewars Badge](https://www.codewars.com/users/singhScriptor/badges/large)
-</div>
-
-
 <hr>
 
 ## 👨🏻‍💻 **About Me** 
@@ -26,7 +20,9 @@
 <hr>
 
 
+![Codewars Badge](https://www.codewars.com/users/singhScriptor/badges/large)
 
+<hr>
 
 <div align="center">
     <a href="https://singhscriptor.github.io/myPortFolio/" target="_blank">
