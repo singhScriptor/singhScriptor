@@ -1,7 +1,29 @@
 <div align="center">
-    <img src="https://www.codewars.com/users/singhScriptor/badges/large" alt="Codewars Badge"><br>
-    <h1>🌌 Explore My Code Cosmos !</h1>
+    <h1>🌌 Explore My Code Cosmos!</h1>
+    
 </div>
+<hr>
+
+## 👨🏻‍💻 **About Me** 
+
+🚀 A Developer!<br><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="300px" align="right">
+
+🌱 Evolving with Every Line of Code 💻 <br>
+
+⚡ Seeking Synergy in Tech Adventures<br>
+
+📫 Get in touch: [Email](mailto:dhirajkr1117@gmail.com), [Discord](https://discord.gg/bKw582RV), [Twitter](https://x.com/drjsingh_?t=sel7LRDKnNsHUojOlChd9g&s=09).<br>
+
+🌐 Check out my [Portfolio](https://singhscriptor.github.io/myPortFolio/).<br>
+
+<hr>
+
+<div align="center">
+    <img src="https://www.codewars.com/users/singhScriptor/badges/large" alt="Codewars Badge"><br>
+    
+</div>
+<hr>
+
 <div align="center">
     <a href="https://singhscriptor.github.io/myPortFolio/" target="_blank">
         <img src="https://img.shields.io/badge/-myPortfolio-000000?style=flat&logo=globe&logoColor=white" alt="Portfolio">
@@ -24,22 +46,14 @@
     <a href="https://instagram.com/drjsingh_" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    
 </div>
 
 <hr>
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAwYXcweDFzeXM1bzZydndsbGIyZ2oxZnpwYXVoZ3lkdDM2YmRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="350px" align="right">
 
-
-
-🌱 Evolving with Every Line of Code 💻 
-
-
-⚡ Seeking Synergy in Tech Adventures
-
-
-### 🛠 Tech Stack
+## 🛠 Tech Stack 
+<details><summary></summary>
 
 **Languages** <br>
 <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
@@ -74,13 +88,12 @@
 
 **Version Control** <br>
 <img src="https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat">&nbsp;
-
+</details>
 <hr>
 
-## 📊 GitHub Activity
+## ⚙️ GitHub Activity
 <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8&hide_border=true" height="155em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
 </div>
-
