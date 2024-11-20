@@ -7,7 +7,7 @@
 
 🚀 A Developer !<br><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="250px" align="right">
 
-🌱 Evolving with every line of code. 💻 <br>
+🌱 Evolving with every line of code.  <br>
 
 ⚡ Seeking synergy in tech adventures.<br>
 
