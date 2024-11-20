@@ -4,7 +4,7 @@
 <hr>
 
 ## 👨🏻‍💻 **About Me** 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="290px" align="right">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="300px" align="right">
 🚀 A Developer !<br>
 
 🌱 Evolving with every line of code.  <br>
@@ -15,11 +15,6 @@
 
 🌐 Check out:  [myPortfolio](https://singhscriptor.github.io/myPortFolio/).<br>
 
-<hr>
-
-<div align="center">
-    <img src="https://www.codewars.com/users/singhScriptor/badges/large" alt="Codewars Badge"><br>
-</div>
 <hr>
 
 <div align="center">
@@ -47,13 +42,15 @@
 </div>
 
 <hr>
-
-
-
+<div align="center">
+<img src="https://www.codewars.com/users/singhScriptor/badges/large" alt="Codewars Badge">
+</div>
+<hr>
 
 ## 🛠 Tech Stack 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAwYXcweDFzeXM1bzZydndsbGIyZ2oxZnpwYXVoZ3lkdDM2YmRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="350px" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAwYXcweDFzeXM1bzZydndsbGIyZ2oxZnpwYXVoZ3lkdDM2YmRnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" width="300px" align="right">
+
 
 <details><summary><strong>🔧 Skill Arsenal</strong></summary><br>
 
@@ -111,7 +108,18 @@
 <details><summary><b>📊 Data Structures and Algorithms</b></summary><br>
 
 - **[JavaScript](https://github.com/singhScriptor/DSA)**
-</details>
+</details><br>
+
+
+<details><summary><b>🔖 Curated Reads</b></summary>
+
+
+I regularly share useful reads on GitHub Gists. Below are some of the helpful ones.👇<br>
+  📘 [Data Structure & JavaScript Sheet](https://gist.github.com/singhScriptor/a053bd4bac816c7a067ba9fb203b6111)<br>
+  📒 [CSS Sheet](https://gist.github.com/singhScriptor/9d8ec1dd6fbbb31de7a363b7fed82a97)<br>
+  📙 [HTML Sheet](https://gist.github.com/singhScriptor/af2d9e42131a45ce83a5527e51946c64)<br>
+  📗 [Github Sheet](https://gist.github.com/singhScriptor/81ea35052f31102a115c005d27a9d708)<br>
+</details>  
 
 <hr>
 
