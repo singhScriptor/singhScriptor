@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 **About Me** 
 
-🚀 A Developer!<br><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="300px" align="right">
+🚀 A Developer !<br><img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="250px" align="right">
 
 🌱 Evolving with every line of code. 💻 <br>
 
@@ -13,7 +13,7 @@
 
 📫 Get in touch: [Email](mailto:dhirajkr1117@gmail.com), [Discord](https://discord.gg/bKw582RV), [Twitter](https://x.com/drjsingh_?t=sel7LRDKnNsHUojOlChd9g&s=09).<br>
 
-🌐 Check out my [Portfolio](https://singhscriptor.github.io/myPortFolio/).<br>
+🌐 Check out:  [myPortfolio](https://singhscriptor.github.io/myPortFolio/).<br>
 
 <hr>
 
@@ -93,6 +93,6 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8&hide_border=true" style="min-height: 155em;" height="155em"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8&hide_border=true" height="155em"/>
 
 </div>
