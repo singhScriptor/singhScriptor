@@ -95,18 +95,21 @@
 
 <details><summary><b>📚 Projects</b></summary><br>
 
-  ✨ [myPortFolio](https://github.com/singhScriptor/myPortFolio) - [Live Demo](https://singhscriptor.github.io/myPortFolio/)<br>
-  ✨ [Order Management System](https://github.com/singhScriptor/OrderManagement) - [Live Demo](https://singhscriptor.github.io/OrderManagement/)<br>
-  ✨ [Coding Assessment L-2 Cart Application](https://github.com/singhScriptor/L2-Assesment) - [Live Demo](https://singhscriptor.github.io/L2-Assesment/)<br>
-  ✨ [Elusive Button](https://github.com/singhScriptor/elusiveButton) - [Live Demo](https://singhscriptor.github.io/elusiveButton/)<br>
+ ✨ [myPortFolio](https://github.com/singhScriptor/myPortFolio): Personal portfolio showcasing my work and skills. [Live Demo](https://singhscriptor.github.io/myPortFolio/)<br>
+✨ [ExpenseTracker](https://github.com/singhScriptor/ExpenseTracker): Manage expenses with CRUD and local storage. [Live Demo](https://singhscriptor.github.io/ExpenseTracker/)<br>
+✨ [Order Management System](https://github.com/singhScriptor/OrderManagement): CRUD and local storage features. [Live Demo](https://singhscriptor.github.io/OrderManagement/)<br>
+✨ [Coding Assessment L-2 Cart Application](https://github.com/singhScriptor/L2-Assesment): Cart features and local storage. [Live Demo](https://singhscriptor.github.io/L2-Assesment/)<br>
+✨ [Elusive Button](https://github.com/singhScriptor/elusiveButton): Interactive buttons with elusive behavior. [Live Demo](https://singhscriptor.github.io/elusiveButton/)<br>
+✨ [Car Game](https://github.com/singhScriptor/carGame): Developed using JavaScript with CSS for styling. [Live Demo](https://singhscriptor.github.io/carGame/) <br>
 
-  <!--START_SECTION:activity-->
-1. Contributed to [myPortFolio](https://github.com/singhScriptor/myPortFolio) - Added new features and improved design<br>
-2. Worked on [Order Management System](https://github.com/singhScriptor/OrderManagement) - Developed CRUD and local storage features<br>
-3. Participated in [Coding Assessment L-2 Cart Application](https://github.com/singhScriptor/L2-Assesment) - Implemented cart features and local storage<br>
-4. Developed [Elusive Button](https://github.com/singhScriptor/elusiveButton) - Created interactive buttons with elusive behavior<br>
-  <!--END_SECTION:activity-->
+<b> 🚧 Ongoing Project</b>
+
+🏗️ [myWebSite](https://github.com/singhScriptor/mywebSite): Developing a new website using modern web technologies (currently in progress).<br>
+🏗️ [DSA-Python](https://github.com/singhScriptor/DsaPython): Practicing data structures and algorithms using Python (work in progress).
+
+
 </details><br>
+
  
 <details><summary><b>📊 Data Structures and Algorithms</b></summary><br>
 
