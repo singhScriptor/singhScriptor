@@ -93,7 +93,7 @@
 </details> <br>
 
 
-<details><summary><b>📚 Projects</b></summary><br>
+<details><summary><b>🔖 Projects</b></summary><br>
 
  ✨ [myPortFolio](https://github.com/singhScriptor/myPortFolio): Personal portfolio showcasing my work and skills. [Live Demo](https://singhscriptor.github.io/myPortFolio/)<br>
 ✨ [ExpenseTracker](https://github.com/singhScriptor/ExpenseTracker): Manage expenses with CRUD and local storage. [Live Demo](https://singhscriptor.github.io/ExpenseTracker/)<br>
@@ -117,7 +117,7 @@
 </details><br>
 
 
-<details><summary><b>🔖 Curated Reads</b></summary>
+<details><summary><b>📚 Curated Reads</b></summary>
 
 
 I regularly share useful reads on GitHub Gists. Below are some of the helpful ones.👇<br>
