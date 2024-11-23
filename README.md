@@ -102,10 +102,10 @@
 ✨ [Elusive Button](https://github.com/singhScriptor/elusiveButton): Interactive buttons with elusive behavior. [Live Demo](https://singhscriptor.github.io/elusiveButton/)<br>
 ✨ [Car Game](https://github.com/singhScriptor/carGame): Developed using JavaScript with CSS for styling. [Live Demo](https://singhscriptor.github.io/carGame/) <br>
 
-<b> 🚧 Ongoing Project</b>
+<b> 🏭 Ongoing Project</b>
 
-🏗️ [myWebSite](https://github.com/singhScriptor/mywebSite): Developing a new website using modern web technologies (currently in progress).<br>
-🏗️ [DSA-Python](https://github.com/singhScriptor/DsaPython): Practicing data structures and algorithms using Python (work in progress).
+🚧 [myWebSite](https://github.com/singhScriptor/mywebSite): Developing a new website using modern web technologies (currently in progress).<br>
+🚧 [DSA-Python](https://github.com/singhScriptor/DsaPython): Practicing data structures and algorithms using Python (work in progress).
 
 
 </details><br>
