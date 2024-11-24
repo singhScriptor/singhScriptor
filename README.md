@@ -99,6 +99,8 @@
 ✨ [ExpenseTracker](https://github.com/singhScriptor/ExpenseTracker): Manage expenses with CRUD and local storage. [Live Demo](https://singhscriptor.github.io/ExpenseTracker/)<br>
 ✨ [Order Management System](https://github.com/singhScriptor/OrderManagement): CRUD and local storage features. [Live Demo](https://singhscriptor.github.io/OrderManagement/)<br>
 ✨ [Coding Assessment L-2 Cart Application](https://github.com/singhScriptor/L2-Assesment): Cart features and local storage. [Live Demo](https://singhscriptor.github.io/L2-Assesment/)<br>
+✨ [StreakCounter](https://github.com/singhScriptor/StreakCounter): Track your GitHub contribution streaks. [Live Demo](https://singhscriptor.github.io/StreakCounter/)<br>
+
 ✨ [Elusive Button](https://github.com/singhScriptor/elusiveButton): Interactive buttons with elusive behavior. [Live Demo](https://singhscriptor.github.io/elusiveButton/)<br>
 ✨ [Car Game](https://github.com/singhScriptor/carGame): Developed using JavaScript with CSS for styling. [Live Demo](https://singhscriptor.github.io/carGame/) <br>
 
