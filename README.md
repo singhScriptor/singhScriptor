@@ -20,7 +20,8 @@
 
 <hr>
 
-![Codewars Badge](https://www.codewars.com/users/singhScriptor/badges/large)
+[![codewars](https://www.codewars.com/users/singhScriptor/badges/large)](https://www.codewars.com/users/singhScriptor)
+
 
 <hr>
 
