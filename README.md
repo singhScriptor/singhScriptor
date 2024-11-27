@@ -26,7 +26,7 @@
 
 <div align="center">
     <a href="https://singhscriptor.github.io/myPortFolio/" target="_blank">
-        <img src="https://img.shields.io/badge/-myPortfolio-000000?style=flat&logo=globe&logoColor=white" alt="Portfolio">
+        <img src="https://img.shields.io/badge/myPortfolio-rebeccapurple?style=flat&logo=globe&logoColor=white" alt="Portfolio">
     </a>
     <a href="mailto:dhirajkr1117@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
@@ -47,6 +47,7 @@
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
     </a>
 </div>
+
 <hr>
 
 ## 🛠 Tech Stack 
