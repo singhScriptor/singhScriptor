@@ -26,7 +26,7 @@
 
 <div align="center">
     <a href="https://singhscriptor.github.io/myPortFolio/" target="_blank">
-        <img src="https://img.shields.io/badge/myPortfolio-darkblue?style=flat&logo=globe&logoColor=white" alt="Portfolio">
+        <img src="https://img.shields.io/badge/myPortfolio-2F4F4F?style=flat&logo=globe&logoColor=white" alt="Portfolio">
     </a>
     <a href="mailto:dhirajkr1117@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
     </a>
     <a href="https://github.com/singhScriptor" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub-2F4F4F?style=flat&logo=github&logoColor=white" alt="GitHub">
+        <img src="https://img.shields.io/badge/-GitHub-353839?style=flat&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="https://x.com/drjsingh_?t=sel7LRDKnNsHUojOlChd9g&s=09" target="_blank"> 
         <img src="https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white" alt="X"> 
