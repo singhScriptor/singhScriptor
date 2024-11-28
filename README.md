@@ -146,7 +146,7 @@ I regularly share useful reads on GitHub Gists. Below are some of the helpful on
 
 <div align="center">
 
- ![Current Streak](https://img.shields.io/badge/dynamic/json?color=663399&label=Current%20Streak&labelColor=C71585&query=%24.currentStreak.length&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DsinghScriptor%26type%3Djson&suffix=%20days&style=social) ![Views](https://komarev.com/ghpvc/?username=singhScriptor&color=20B2AA&label=Views&labelColor=#FA8072) 
+ ![Current Streak](https://img.shields.io/badge/dynamic/json?color=663399&label=Current%20Streak&labelColor=C71585&query=%24.currentStreak.length&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DsinghScriptor%26type%3Djson&suffix=%20days&style=social) ![Views](https://komarev.com/ghpvc/?username=singhScriptor&color=20B2AA&label=Views&labelColor=FA8072&style=social) 
  ![Star Gazers](https://img.shields.io/github/stars/singhScriptor?label=Star%20Gazers&style=social) ![Longest Streak](https://img.shields.io/badge/dynamic/json?color=blue&label=Longest%20Streak&labelColor=DDA0DD&query=%24.longestStreak.length&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DsinghScriptor%26type%3Djson&suffix=%20days&style=social)
 
 
