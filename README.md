@@ -4,6 +4,7 @@
 
 <hr>
 
+
 ## 👨🏻‍💻 **About Me** 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="300px" align="right">
 
@@ -136,12 +137,20 @@ I regularly share useful reads on GitHub Gists. Below are some of the helpful on
 <hr>
 
 ## ⚙️ GitHub Activity
-![Views](https://komarev.com/ghpvc/?username=singhScriptor&color=20B2AA&label=Views)
+
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=singhScriptor&theme=github_dark&hide_border=true" height="155em"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhScriptor&theme=github_dark&utcOffset=8&hide_border=true"height="155em"/>
 </div><br>
+
+<div align="center">
+    
+![Current Streak](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Current%20Streak&query=%24.currentStreak.length&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DsinghScriptor%26type%3Djson&suffix=%20days)
+ ![Views](https://komarev.com/ghpvc/?username=singhScriptor&color=20B2AA&label=Views) ![Star Gazers](https://img.shields.io/github/stars/singhScriptor?label=Star%20Gazers&style=social) ![GitHub Longest Streak](https://img.shields.io/badge/dynamic/json?color=blue&label=Longest%20Streak&query=%24.longestStreak.length&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DsinghScriptor%26type%3Djson&suffix=%20days)
+
+</div>
+
    
 
 
