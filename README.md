@@ -126,13 +126,15 @@
 
 <details><summary><b>📚 Curated Reads</b></summary>
 
-
 I regularly share useful reads on GitHub Gists. Below are some of the helpful ones.👇<br>
   📘 [Data Structure & JavaScript Sheet](https://gist.github.com/singhScriptor/a053bd4bac816c7a067ba9fb203b6111)<br>
   📒 [CSS Sheet](https://gist.github.com/singhScriptor/9d8ec1dd6fbbb31de7a363b7fed82a97)<br>
   📙 [HTML Sheet](https://gist.github.com/singhScriptor/af2d9e42131a45ce83a5527e51946c64)<br>
   📗 [Github Sheet](https://gist.github.com/singhScriptor/81ea35052f31102a115c005d27a9d708)<br>
+  📔 [big O sheet](https://gist.github.com/singhScriptor/18549467246dcd56cdcd07e30baf2880)<br>
+  
 </details>
+
 
 <hr>
 
