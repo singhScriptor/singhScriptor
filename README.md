@@ -85,6 +85,7 @@
 <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CRUD-4CAF50?logo=cruddotcom&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-REST%20API-02569B?logo=rest&logoColor=white&style=flat">&nbsp;
 
 <br>
 
