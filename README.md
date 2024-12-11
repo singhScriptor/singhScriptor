@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-DOM-00FF00?logo=dom&logoColor=white&style=flat">&nbsp;
+
 
 <br>
 
@@ -75,7 +75,8 @@
 <img src="https://img.shields.io/badge/-Bootstrap-8511FA?logo=bootstrap&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Axios-671DDF?logo=axios&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-DOM-00FF00?logo=dom&logoColor=white&style=flat">&nbsp;
+
 
 <br>
 
@@ -83,6 +84,7 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-CRUD-4CAF50?logo=cruddotcom&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Jupyter-FA0F00?logo=jupyter&logoColor=white&style=flat">&nbsp;
 
 <br>
 
