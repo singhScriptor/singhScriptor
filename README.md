@@ -75,7 +75,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-8511FA?logo=bootstrap&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Axios-671DDF?logo=axios&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-DOM-00FF00?logo=dom&logoColor=white&style=flat">&nbsp;
+
 
 
 <br>
@@ -98,6 +98,8 @@
 
 **Version Control** <br>
 <img src="https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat">&nbsp;
+
 </details> <br>
 
 
