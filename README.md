@@ -6,7 +6,7 @@
 
 
 ## 👨🏻‍💻 **About Me** 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="250px" align="right">
 
 🚀 A Developer !<br>
 
